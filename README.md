@@ -12,7 +12,7 @@ A machine learning project that compares several classification algorithms using
 ## Files
 - `iris_classification_models.ipynb` → Jupyter Notebook for model training and testing
 - `iris_classification_models.py` → Python script version
-- `iris_classification_model.pkl` → saved trained model
+- `RF_model.pkl` → saved trained model
 - `requirements.txt` → project dependencies
 
 ## Technologies
